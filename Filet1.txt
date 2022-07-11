@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 testing line
-=======
 untesting line
->>>>>>> c73f3dcad95b0c1f69dd93e69fb904751b482df4
+
 commit test
 
 My name is Natali.
